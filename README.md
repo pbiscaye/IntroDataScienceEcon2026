@@ -8,7 +8,8 @@ See the [Syllabus](Syllabus_Biscaye_DataScience.pdf) for an overview of the cour
 
 If you are new to Python, follow the [course setup guide](Data_Science_Class_Setup_Guide.pdf) for instructions on setting up the software and environments used in the course. More experienced Python users can skip to the section of the guide listing the required packages and environments. The repository includes the YAML environment files needed for the course.
 
-**Course outline** 
+## Course outline
+
 1. Introduction to data science and Python/Jupyter setup and basics
 2. Research reproducibility and Python tabular data wrangling
 3. Generative AI; Python data exploration and visualization
