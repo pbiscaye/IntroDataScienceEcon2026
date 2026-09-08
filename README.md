@@ -1,8 +1,12 @@
 # Introduction to Data Science for Economists 2026
 
-This site hosts materials for my Data Science for Development Economics course at the Université Clermont Auvergne. See the [Syllabus](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/Syllabus_Biscaye_DataScience.pdf) for an overview of the course's organization, and below for the course outline. Contact me at <pierre.biscaye@uca.fr> for more information.
+This repository contains materials for the 2026 edition of my **Introduction to Data Science for Economists** Masters 2 course at the Université Clermont Auvergne, taught as *Science des données pour le développement*.
 
-All code applications in this course use Python. Follow the [course setup guide](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/Data_Science_Class_Setup_Guide.pdf) for instructions on getting set up to work in Python if you are new. If you are a more experienced user, skip to the section indicating what packages are used in the course. You will need to download the two yml files to set up the python package environments for the course.
+The course introduces data science tools and approaches useful for applied economic research, with many examples and applications drawn from development economics. All practical applications in the course use **Python**.
+
+See the [Syllabus](Syllabus_Biscaye_DataScience.pdf) for an overview of the course organization and the course outline below for links to the materials. For questions or comments about the materials, contact me at [pierre.biscaye@uca.fr](mailto:pierre.biscaye@uca.fr).
+
+If you are new to Python, follow the [course setup guide](Data_Science_Class_Setup_Guide.pdf) for instructions on setting up the software and environments used in the course. More experienced Python users can skip to the section of the guide listing the required packages and environments. The repository includes the YAML environment files needed for the course.
 
 **Course outline** 
 1. Introduction to data science and Python/Jupyter setup and basics
@@ -13,6 +17,12 @@ All code applications in this course use Python. Follow the [course setup guide]
 6. Intro to machine learning (focus on supervised)
 7. Intro to text analysis and natural language processing
 
-If you want to use these materials, please consider the following [citation](https://github.com/pbiscaye/IntroDataScienceEcon/blob/main/CITATION.md).
-
 I also maintain an [index of links to potential resources](https://github.com/pbiscaye/Teaching/blob/main/DataScienceResourcesIndex.md) for further learning in each of these topics, including in languages other than Python.
+
+## License and citation
+
+Except where otherwise noted, the original teaching materials in this repository are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE.md).
+
+You are welcome to use, share, and adapt these materials with appropriate attribution. Third-party materials remain subject to their original copyright and licensing terms.
+
+If you use or adapt these materials, please see [CITATION.md](CITATION.md) for the suggested citation.
